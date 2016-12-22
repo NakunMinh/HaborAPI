@@ -1,0 +1,37 @@
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Web Service.dll.config
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Web Service.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Web Service.pdb
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Microsoft.Web.Infrastructure.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Newtonsoft.Json.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Net.Http.Formatting.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Cors.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Helpers.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Cors.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Tracing.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.WebHost.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Mvc.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Razor.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.pdb
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Newtonsoft.Json.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Net.Http.Formatting.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Helpers.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Cors.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Tracing.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.WebHost.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Mvc.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Razor.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.xml
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.dll
+F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
