@@ -35,3 +35,40 @@ F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web
 F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
 F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.dll
 F:\MINH NHI\Nam 4_1\Kiem chung phan mem\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
+C:\xampp\htdocs\HaborAPI\Web Service\bin\Web Service.dll.config
+C:\xampp\htdocs\HaborAPI\Web Service\bin\Web Service.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\Web Service.pdb
+C:\xampp\htdocs\HaborAPI\Web Service\bin\EntityFramework.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\HtmlAgilityPack.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\Microsoft.Web.Infrastructure.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\Newtonsoft.Json.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Net.Http.Formatting.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Cors.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Helpers.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Http.Cors.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Http.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Http.Tracing.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Http.WebHost.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Mvc.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Razor.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.WebPages.Deployment.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.WebPages.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.WebPages.Razor.dll
+C:\xampp\htdocs\HaborAPI\Web Service\bin\EntityFramework.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\HtmlAgilityPack.pdb
+C:\xampp\htdocs\HaborAPI\Web Service\bin\HtmlAgilityPack.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\Newtonsoft.Json.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Net.Http.Formatting.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Helpers.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Http.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Http.Cors.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Http.Tracing.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Http.WebHost.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Mvc.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.Razor.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.WebPages.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.WebPages.Deployment.xml
+C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.WebPages.Razor.xml
+C:\xampp\htdocs\HaborAPI\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\HaborAPI\Web Service\obj\Debug\Web Service.dll
+C:\xampp\htdocs\HaborAPI\Web Service\obj\Debug\Web Service.pdb
