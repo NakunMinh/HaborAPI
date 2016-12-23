@@ -159,3 +159,4 @@ C:\xampp\htdocs\HaborAPI\Web Service\bin\System.Web.WebPages.Razor.xml
 C:\xampp\htdocs\HaborAPI\Web Service\bin\WebMatrix.Data.xml
 C:\xampp\htdocs\HaborAPI\Web Service\obj\Debug\Web Service.dll
 C:\xampp\htdocs\HaborAPI\Web Service\obj\Debug\Web Service.pdb
+C:\xampp\htdocs\HaborAPI\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
