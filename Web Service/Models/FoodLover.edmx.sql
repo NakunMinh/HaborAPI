@@ -1,4 +1,4 @@
-
+﻿
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
@@ -264,3 +264,21 @@ GO
 -- --------------------------------------------------
 -- Script has ended
 -- --------------------------------------------------
+
+USE [db81560d64cbf14b329a89a2d400507c54]
+GO
+
+INSERT INTO [dbo].[LoaiMon]
+           ([TenLoaiMon])
+     VALUES
+           (N'Ăn sáng'), (N'Món Chính'), (N'Tráng Miệng')
+GO
+
+USE [db81560d64cbf14b329a89a2d400507c54]
+GO
+
+INSERT INTO [dbo].[MucDo]
+           ([TenMucDo])
+     VALUES
+           (N'Dễ'), (N'Trung Bình'), (N'Khó')
+GO
