@@ -8,7 +8,7 @@
 
 SET QUOTED_IDENTIFIER OFF;
 GO
-USE [db81560d64cbf14b329a89a2d400507c54];
+USE [dba7287e70599f4701835da6e400ab68df];
 GO
 IF SCHEMA_ID(N'dbo') IS NULL EXECUTE(N'CREATE SCHEMA [dbo]');
 GO
@@ -265,7 +265,7 @@ GO
 -- Script has ended
 -- --------------------------------------------------
 
-USE [db81560d64cbf14b329a89a2d400507c54]
+USE [dba7287e70599f4701835da6e400ab68df]
 GO
 
 INSERT INTO [dbo].[LoaiMon]
@@ -274,7 +274,7 @@ INSERT INTO [dbo].[LoaiMon]
            (N'Ăn sáng'), (N'Món Chính'), (N'Tráng Miệng')
 GO
 
-USE [db81560d64cbf14b329a89a2d400507c54]
+USE [dba7287e70599f4701835da6e400ab68df]
 GO
 
 INSERT INTO [dbo].[MucDo]
@@ -282,3 +282,5 @@ INSERT INTO [dbo].[MucDo]
      VALUES
            (N'Dễ'), (N'Trung Bình'), (N'Khó')
 GO
+
+
